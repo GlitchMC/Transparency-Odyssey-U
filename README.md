@@ -6,11 +6,11 @@ Changes Skill descriptions, item descriptions, and adds *real* numbers to skills
 Also includes optional bug fixes for things such as Ecstasy doing less damage with 1 bind from levels 11-15 than 0 binds at levels 11-15.
 
 Done:
- - Landshark Skill Tree
+ - Nearly All Player Skills
+ - Skill Bugfixes
 
 ToDo:
- - All other Skill Trees
- - Grimoire Skills
+ - Cross Charge
+ - Enemy Grimoire Skills
  - Items
  - Shop equipment fixes/edits
- - Ecstacy Bug
