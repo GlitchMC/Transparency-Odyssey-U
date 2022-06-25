@@ -15,7 +15,7 @@ Done:
  - Guild Food Effects
 
 ToDo:
- - not sure yet
+ - explain diminishing returns somewhere???
 
 &nbsp;
 
