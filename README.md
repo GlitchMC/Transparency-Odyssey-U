@@ -30,7 +30,7 @@ The unpacked zips are for use with other mods. You will need to use karameru fro
 
 Citra: 
  - navigate to the mods folder for your game installation (right click > go to mods location)
- - *within* the luma folder, find the romfs folder, and drag and drop to the mods directory.
+ - *within* the luma folder (from the patch download), find the romfs folder. Drag and drop to the mods directory.
 
 
 For help, suggestions, or to chat -> https://discord.gg/rdq79YG
