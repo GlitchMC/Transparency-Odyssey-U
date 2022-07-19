@@ -16,6 +16,7 @@ Done:
 ToDo:
  - explain diminishing returns somewhere???
  - Update skills to use data tags instead of manual number inputs like U2???
+ - optimize skill texts to minimize text movement during skill level up
  - comb through and make sure all terminology is consistent through the game (and across other games???)
 
 &nbsp;
