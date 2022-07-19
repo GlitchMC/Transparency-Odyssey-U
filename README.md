@@ -15,6 +15,7 @@ Done:
 
 ToDo:
  - explain diminishing returns somewhere???
+ - Update skills to use data tags instead of manual number inputs like U2???
  - comb through and make sure all terminology is consistent through the game (and across other games???)
 
 &nbsp;
