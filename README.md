@@ -3,7 +3,7 @@
 A text patch for Etrian Odyssey Untold: The Millenium Girl, which alters text on skills, items, etc. in order to inform the player of important numbers and mechanics such as damage modifiers or the importance of certain player stats.
 
 Also includes optional bug fixes for things such as Ecstasy doing less damage with 1 bind from levels 11-15 than 0 binds at levels 11-15.
-Full Changelog: https://docs.google.com/document/d/1JHKp4dQcPtnls5okbVVF16-OhxuoAqRMI3acvfaD2w0/edit?usp=sharing
+Full Changelog: https://docs.google.com/document/d/1JHKp4dQcPtnls5okbVVF16-OhxuoAqRMI3acvfaD2w0/
 
 Done:
  - All Player Skills text
