@@ -37,4 +37,4 @@ Citra:
  - *within* the luma folder (from the patch download), find the romfs folder (doesn't matter under which TitleID, they are the same). Drag and drop to the mods directory.
 
 
-For help, to help, give suggestions, or to chat -> https://discord.gg/rdq79YG
+For help, to help, give suggestions/corrections, or to chat -> https://discord.gg/rdq79YG
